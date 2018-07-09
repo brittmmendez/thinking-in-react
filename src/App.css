@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.boarder-solid-yellow {
+  border-style: solid;
+  border-color: yellow; 
+}
+
+.boarder-solid-blue {
+  border-style: solid;
+  border-color: blue; 
+}
+
+.boarder-solid-orange {
+  border-style: solid;
+  border-color: orange; 
+}
+
+.boarder-solid-green {
+  border-style: solid;
+  border-color: greenyellow; 
+}
+
+.boarder-solid-lightblue {
+  border-style: solid;
+  border-color: turquoise; 
+}
+
+.boarder-solid-red {
+  border-style: solid;
+  border-color: red; 
+}
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
